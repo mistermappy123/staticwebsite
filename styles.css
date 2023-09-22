@@ -1,0 +1,15 @@
+#red {
+    font-size: 20px;
+}
+
+body {
+    background-color: beige;
+}
+
+#pix_photo {
+    border-style: inline;
+}
+
+h1 {
+    display: inline;
+}
